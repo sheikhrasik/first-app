@@ -1,0 +1,1 @@
+This is an indigeneous personal pertfolio project. It involves technologies like HTML, CSS predominantly. The project highlights various personal level experiences, goals, projects, etc. The project will keep on evolving based upon the technologies that i keep on learning.
